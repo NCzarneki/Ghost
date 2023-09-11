@@ -1,1 +1,9 @@
 # Ghost
+
+
+
+
+💻 Tecnologias:
+HTML
+CSS
+
